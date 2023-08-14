@@ -154,3 +154,55 @@ h4 {
   color: #000;
 }
 /* HERO STYLES END */
+
+/* MAIN STYLE   */
+.main {
+  padding-top: 130px;
+  padding-bottom: 114px;
+}
+
+.main-title {
+  color: #000;
+  font-size: 50px;
+  margin-bottom: 58px;
+}
+.main-info {
+  display: flex;
+  gap: 36px;
+}
+.main-info-left {
+}
+.main-info-title {
+  color: #000;
+  margin-bottom: 19px;
+  font-size: 25px;
+}
+.main-info-text {
+  font-size: 16px;
+  line-height: 162.682%;
+}
+.left-text {
+  margin-bottom: 117px;
+}
+.right-text {
+  margin-bottom: 67px;
+}
+.main-info-left-img {
+  display: flex;
+  gap: 29px;
+}
+
+/* MAIN STYLE END  */
+
+/* FOOTER STYLES  */
+.footer {
+  padding-bottom: 80px;
+}
+.footer .container {
+  display: flex;
+  gap: 55px;
+}
+.footer .container span {
+  font-size: 15px;
+}
+/* FOOTER STYLES END */
